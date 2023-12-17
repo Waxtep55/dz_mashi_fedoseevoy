@@ -1,1 +1,1 @@
-# dz_mashi_fedoseevoy
+Перписывай код из файла main.py
